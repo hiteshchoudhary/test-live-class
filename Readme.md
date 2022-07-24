@@ -7,3 +7,5 @@ Also, we talked about pushing website to netlify. but you can also use
 Vercel
 
 [Vercel](https://vercel.com)
+
+![badge](https://img.shields.io/badge/Live--class-Sunday-green)
